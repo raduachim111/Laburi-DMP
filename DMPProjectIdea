@@ -1,0 +1,2 @@
+A 2D scanner that maps obtacles (objects in its path) and returns their polar and cartesian coordinates on an LD screen.The scanner will sweep an area of 180 degrees, and when it detects an object, it stops and 
+returns the mentioned coordinates.
